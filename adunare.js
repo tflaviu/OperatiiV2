@@ -6,6 +6,8 @@ var w = 20;
 console.log(x + y);
 
 
+
 function adunare-4-numere(){
    return x + y + w + z; 
 }
+
